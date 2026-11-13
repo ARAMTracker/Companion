@@ -1,0 +1,14 @@
+{
+  "ApiBaseUrl": "https://aramtracker.com/api/v1/companion",
+  "SetupCompleted": true,
+  "TrackingEnabled": true,
+  "CloseToTray": true,
+  "InstallationId": 12,
+  "InstallationName": "GAMING-PC",
+  "LinkedAccounts": ["Some Name#EUW"],
+  "ProcessedMatchIds": ["EUW1_7000000001"],
+  "LastTrackedMatchId": "EUW1_7000000001",
+  "LastTrackedAt": "2026-11-11T18:40:00+00:00",
+  "LastUploadAt": "2026-11-11T18:40:05+00:00",
+  "LastUploadProblem": null
+}

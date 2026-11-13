@@ -1,0 +1,19 @@
+bin/
+obj/
+publish/
+.vs/
+.idea/
+*.user
+*.suo
+TestResults/
+
+# Local data, never committed
+settings.json
+outbox.json
+token.bin
+*.log
+
+# Internal, not published
+docs/
+.github/ISSUE_TEMPLATE/
+.github/workflows/ci.yml
